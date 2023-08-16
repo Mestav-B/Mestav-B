@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mestav-B
-- 👀 I’m interested in computing sciences, bayesian, applied statistics, epidemiyologic models
+- 👀 I’m interested in computing sciences, bayesian, applied statistics, epidemiological models
 - 🌱 I’m currently learning ecological network, spatial data analysis
-- 💞️ I’m looking to collaborate on bayesian spatial models
+- 💞️ I’m looking to collaborate on Bayesian models
 - 📫 How to reach me burcumestav@comu.edu.tr
 
 <!---
